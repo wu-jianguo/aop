@@ -49,5 +49,6 @@ public class TestAop {
         System.out.println(CompanyEnum.getCodeByName("韵达"));
         System.out.println(CompanyEnum.getNameByCode(1004));
         System.out.println(CompanyEnum.getNameByCode(1004));
+        System.out.println(CompanyEnum.getNameByCode(1004));
     }
 }
