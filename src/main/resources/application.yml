@@ -1,0 +1,5 @@
+server:
+  port: 9356
+logging:
+  level:
+    com.xiaolao.aop.service: debug
